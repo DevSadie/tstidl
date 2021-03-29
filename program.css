@@ -1,0 +1,7 @@
+/* You can't really make a functioning program in CSS but I guess here it is anyway... */
+
+.helloWorld {
+  text-decoration: underline;
+  text-shadow: 1px 1px black;
+  color: black;
+}
